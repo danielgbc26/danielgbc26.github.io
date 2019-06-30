@@ -3,7 +3,7 @@ layout: post
 title: Primera prueba
 ---
 
-## Primera prueba
+
 La finalidad de este post es asegurarme que todo está funcionando correctamente y, también, aprender un poco de Markdown. 
 
 > *Se supone que debe ser fácil, ¿no?*
