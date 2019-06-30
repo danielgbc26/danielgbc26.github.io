@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Primera prueba
 ---
 
-# Primera prueba
+## Primera prueba
 La finalidad de este post es asegurarme que todo está funcionando correctamente y, también, aprender un poco de Markdown. 
 
 > *Se supone que debe ser fácil, ¿no?*
@@ -30,7 +30,3 @@ Por cierto, estas son algunas de las razones por las que no estoy escuchando mú
     osfjdfdjgds
     jdsjgnnbhe
 
-|  amigos|enemigos  |
-|--|--|
-| freddy | joey |
-| freddy | joey |
